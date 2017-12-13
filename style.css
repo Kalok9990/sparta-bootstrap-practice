@@ -1,0 +1,41 @@
+.row {
+  text-align: center;
+}
+
+.one {
+  background-color: red;
+  height: 200px
+}
+
+.row2 {
+  height: 200px;
+}
+
+.two {
+  background-color: blue;
+}
+
+.three {
+  background-color: green;
+}
+
+.four {
+  background-color: purple;
+}
+
+.row3 {
+  height: 200px;
+}
+
+.five {
+  background-color: silver;
+}
+
+.six {
+  background-color: pink;
+}
+
+.seven {
+  background-color: yellow;
+  height: 200px
+}
